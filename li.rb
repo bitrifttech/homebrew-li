@@ -4,8 +4,8 @@
 class Li < Formula
   desc "CLI assistant that converts natural language to shell plans using AI"
   homepage "https://github.com/bitrifttech/li"
-  url "https://github.com/bitrifttech/li/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "65e5b4fbc1ba379b28ed0897ad51235e67beed7692022d71a8d114c966c337fb"
+  url "https://github.com/bitrifttech/li/archive/refs/tags/v0.1.3.tar.gz"
+  sha256 "07bd31736a65cd6c399abfc47f59ac26f74983783a3bf42bf97564922f2d32ca"
   license "MIT"
   version "0.1.1"
 
