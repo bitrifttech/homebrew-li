@@ -12,7 +12,7 @@ class Li < Formula
   depends_on "rust" => :build
 
   def install
-    system "cargo", "install", "--bin", "li", "--path", ".", "--release"
+    system "cargo", "install", "--bin", "li", "--path", "."
     bin.install "target/release/li"
   end
 
