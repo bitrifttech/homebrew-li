@@ -7,6 +7,7 @@ class Li < Formula
   url "https://github.com/bitrifttech/li/archive/refs/heads/main.tar.gz"
   sha256 "de1bf2f3eb89e39889e0261454f9e3048f5e0211082d4b299bc188a86c3a4170"
   license "MIT"
+  version "0.1.0"
 
   depends_on "rust" => :build
 
