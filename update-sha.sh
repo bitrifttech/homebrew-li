@@ -5,7 +5,7 @@
 
 set -e
 
-VERSION=${1:-"v0.1.0"}
+VERSION=${1:-"v0.1.5"}
 URL=${2:-"https://github.com/bitrifttech/li/archive/refs/tags/${VERSION}.tar.gz"}
 
 echo "🔍 Calculating SHA256 for:"
